@@ -2,5 +2,6 @@
 Algorithms: Design and Analysis, Part 1
 =================
 
-by Tim Roughgarden
+by [Tim Roughgarden](https://www.coursera.org/instructor/~214)
+
 https://www.coursera.org/course/algo
