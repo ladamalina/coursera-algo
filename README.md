@@ -5,3 +5,5 @@ Algorithms: Design and Analysis, Part 1
 by [Tim Roughgarden](https://www.coursera.org/instructor/~214)
 
 https://www.coursera.org/course/algo
+
+Lectures Slides are [here](https://github.com/ladamalina/coursera-algo-slides)
